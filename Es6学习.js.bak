@@ -1,0 +1,7 @@
+一、函数参数的解构赋值
+	<script>
+		function add ([x,y]){
+			return x + y
+		}
+		console.log(sum([1,2]))
+	</script>
